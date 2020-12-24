@@ -1,6 +1,6 @@
 {
   "name": "rbioz-cep-format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Esse pacote disponibiliza uma função para formatar valores em CEP !",
   "main": "index.js",
   "scripts": {
