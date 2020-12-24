@@ -1,0 +1,20 @@
+{
+  "name": "rbioz-cep-format",
+  "version": "1.0.0",
+  "description": "Esse pacote disponibiliza uma função para formatar valores em CEP !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBioZ/rbioz-cep-format.git"
+  },
+  "keywords": ["brasil","cep", "format"],
+  "author": "rbioz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBioZ/rbioz-cep-format/issues"
+  },
+  "homepage": "https://github.com/RBioZ/rbioz-cep-format#readme"
+}
