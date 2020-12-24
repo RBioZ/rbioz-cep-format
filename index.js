@@ -1,3 +1,5 @@
+// This package was made by RBioZ!
+
 function formatCep(value){
   return value = String(value)
     .replace(/\D/g, "")
